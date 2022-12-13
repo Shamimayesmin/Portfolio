@@ -1,0 +1,69 @@
+[
+    {
+        "id": 1,
+        "category": "University",
+        "name": "",
+        "price": 420,
+        "duration": "18",
+        "available": 12,
+        "ratingsCount": 3725,
+        "img": "https://i.ibb.co/9bTGMqt/study7.jpg"
+        
+      },
+    {
+        "id": 2,
+        "category": "University",
+        "name": "Micro Economics",
+        "price": 420,
+        "duration": "18",
+        "available": 12,
+        "ratingsCount": 3725,
+        "img": "https://i.ibb.co/v4pKFc2/study8.jpg"
+        
+      },
+    {
+        "id": 3,
+        "category": "University",
+        "name": "Micro Economics",
+        "price": 420,
+        "duration": "18",
+        "available": 12,
+        "ratingsCount": 3725,
+        "img": "https://i.ibb.co/SPDshd0/study9.jpg"
+        
+      },
+    {
+        "id": 4,
+        "category": "University",
+        "name": "Micro Economics",
+        "price": 420,
+        "duration": "18",
+        "available": 12,
+        "ratingsCount": 3725,
+        "img": "https://i.ibb.co/Lgbvsd2/study10.jpg"
+        
+      },
+    {
+        "id": 5,
+        "category": "University",
+        "name": "Micro Economics",
+        "price": 420,
+        "duration": "18",
+        "available": 12,
+        "ratingsCount": 3725,
+        "img": "https://i.ibb.co/q0RKgN9/study4.jpg"
+        
+      },
+    {
+        "id": 6,
+        "category": "University",
+        "name": "Micro Economics",
+        "price": 420,
+        "duration": "18",
+        "available": 12,
+        "ratingsCount": 3725,
+        "img": "https://i.ibb.co/LRkqf1X/study6.jpg"
+        
+      }
+    
+]
