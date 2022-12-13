@@ -3,6 +3,7 @@ import img from '../assets/images/pic.jpg'
 import img2 from '../assets/images/web2.jpg'
 // id="about"
 const About = () => {
+	// comment
 	return (
 		<div className="hero my-20">
 			<div className="hero-content flex-col lg:flex-row">
